@@ -1,0 +1,31 @@
+{
+    "USA": {
+      "F1": {
+        "OPT_window_opens": -90,
+        "last_day_to_apply": 60
+      },
+      "STEM OPT": {
+        "application_opens": 270,
+        "start_date": 365
+      },
+      "H-1B": {
+        "lottery_opens": 300,
+        "work_start": 450
+      }
+    },
+    "India": {
+      "F1": {
+        "OPT_window_opens": -90,
+        "last_day_to_apply": 60
+      },
+      "STEM OPT": {
+        "application_opens": 270,
+        "start_date": 365
+      },
+      "H-1B": {
+        "lottery_opens": 300,
+        "work_start": 450
+      }
+    }
+  }
+  
